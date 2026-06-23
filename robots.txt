@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://outswarming.github.io/uf-power-energy-club/sitemap.xml
